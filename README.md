@@ -1,8 +1,8 @@
 ## Jéssica Nascimento
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/jessicanascimento">
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=jessicanascimento&show_icons=false&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=jessicanascimento&show_icons=false&theme=radical&include_all_commits=true&count_private=true"/>
   
 </div>
   
