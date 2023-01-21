@@ -1,4 +1,4 @@
-## Hi, welcome in my codes! By Jéssica Nascimento
+## Hi, welcome in my codes! 
 
 
   
